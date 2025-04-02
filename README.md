@@ -1,1 +1,1 @@
-# odin-recipies
+# Within this project, I learned how to create a recipie book primarily using HTML. I used a variety of HTML features for both text, images, and links to create the recipie website. 
